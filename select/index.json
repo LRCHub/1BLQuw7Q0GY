@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ジユーダム",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T14:31:17.255261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jiyu-Dom [ジユーダム]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/01_Jiyu-Dom_[ジユーダム]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジユーダム",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_ジユーダム_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジユーダム",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_ジユーダム_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジユーダム",
+      "artist": "Shiina Ringo (椎名 林檎)",
+      "has_synced": true,
+      "path": "select/04_ジユーダム_Shiina_Ringo_(椎名_林檎).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジユーダム",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_ジユーダム_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジユーダム (ヒャダインのリリリリ☆リミックス)",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/06_ジユーダム_(ヒャダインのリリリリ☆リミックス)_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジユーダム",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_ジユーダム_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ジユーダム",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_ジユーダム_椎名_林檎.txt"
+    }
+  ]
+}
